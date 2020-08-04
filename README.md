@@ -1,2 +1,2 @@
 # WebSearch
-This is a library that can be added with other software and will allow them to store web links, web search and surf through wikipedia web paes easily.
+This is a program to conduct web search and wikipedia search easily.
